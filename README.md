@@ -3,6 +3,8 @@ An event-driven Pomodoro timer built for STM32, featuring an RTC-backed Finite S
  # 🍅 STM32 Pomodoro Timer (FSM & Event-Driven)
 ![IMG_20260212_092822430](https://github.com/user-attachments/assets/b8b870b8-a64b-4cb4-9fa8-bb2e41fa361f)
 
+More photos and videos of the project: https://drive.google.com/drive/folders/1Ov4x1mFF5EkywddXCnJl2fvzAyxgXQTm?usp=drive_link
+
 ## ✨ Key Features
 * **Custom FSM Logic:** The core timer logic is completely hardware-independent, making it highly testable and portable.
 * **Event-Driven Architecture:** Button inputs are translated into logical events (`START`, `PAUSE`, `INC`, `DEC`) rather than directly manipulating hardware variables.
