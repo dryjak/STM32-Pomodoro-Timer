@@ -1,6 +1,7 @@
 # STM32-Pomodoro-Timer
 An event-driven Pomodoro timer built for STM32, featuring an RTC-backed Finite State Machine (FSM), SSD1306 OLED display, and clean, decoupled C architecture.
  # 🍅 STM32 Pomodoro Timer (FSM & Event-Driven)
+![IMG_20260212_092822430](https://github.com/user-attachments/assets/b8b870b8-a64b-4cb4-9fa8-bb2e41fa361f)
 
 ## ✨ Key Features
 * **Custom FSM Logic:** The core timer logic is completely hardware-independent, making it highly testable and portable.
